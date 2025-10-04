@@ -1924,7 +1924,7 @@ window.WowDBDict = {
 
   "Huge": "巨大",
   "Large": "大",
-  "Medium": "中等",
+  "Medium": "中",
   "Small": "小",
   "Tiny": "微小",
 
@@ -1972,7 +1972,7 @@ window.WowDBDict = {
 
   "Folk": "民间",
   "Holiday/Event": "节日/活动",
-  "Opulent": "奢华的",
+  "Opulent": "奢华",
   "Rugged": "粗犷",
   
   "Category": "分类",
