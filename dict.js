@@ -1631,7 +1631,7 @@ window.WowDBDict = {
   "Legerdemain Lounge Sign Board": "Legerdemain Lounge Sign Board",
   "Dalaran Kafa Grinder": "Dalaran Kafa Grinder",
   "Pylon Fragment": "Pylon Fragment",
-  "Dalaran Kafa Table": "Dalaran Kafa Table",
+  "Dalaran Kafa Table": "Dalaran Kafa Table",
   "Ornamental Proudmoore Anchor": "Ornamental Proudmoore Anchor",
   "[DNT] [AUTOGEN] 8DU_Mechagon_ControlConsole01.m2": "[DNT] [AUTOGEN] 8DU_Mechagon_ControlConsole01.m2",
   "[DNT] [AUTOGEN] 8DU_Mechagon_MachinePart05.m2": "[DNT] [AUTOGEN] 8DU_Mechagon_MachinePart05.m2",
