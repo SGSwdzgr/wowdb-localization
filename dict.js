@@ -1820,12 +1820,13 @@ window.WowDBDict = {
 
   "All Categories": "所有分类",
   "Accents": "装饰",
+  "Furnishing": "家具",
   "Furnishings": "家具",
   "Lighting": "照明",
   "Miscellaneous": "杂项",
   "Structural": "结构",
   
-  "Subcategory": "子分类",
+  "All Subcategorys": "子分类",
   "Ambient Lighting": "环境照明",
   "Beds": "床",
   "Bushes": "灌木丛",
@@ -1975,6 +1976,7 @@ window.WowDBDict = {
   "Rugged": "粗犷",
   
   "Category": "分类",
+  "Categorys": "分类",
   "Subcategory": "子分类",
   "Flags": "标记",
   "Budget Cost": "储存成本",
@@ -1988,5 +1990,20 @@ window.WowDBDict = {
   "Style": "风格",
   "Tertiary_Categories": "三级分类",
   "Theme": "主题",
+
+  "Home": "主页",
+  "Browse Items": "浏览物品",
+  "Item Information": "物品信息",
+  "Quick Actions": "快速跳转",
+  "View 3D Model": "查看3D模型",
+  "View All": "查看所有",
+  "Back to Browse": "返回浏览页",
+  "Feedback": "反馈",
+  "Search items...": "搜索物品…",
+  "Login": "登录",
+  "Added": "添加",
+  "Updated": "更新",
+  "Related": "相关",
+  "Items": "物品",
   "Search": "搜索"
 };
