@@ -1534,10 +1534,10 @@ window.WowDBDict = {
   "Theme": "主题",
 
   "Home": "主页",
-  "Browse Items": "浏览物品",
   "Item Information": "物品信息",
   "Quick Actions": "快速跳转",
   "View 3D Model": "查看3D模型",
+  "Browse Items": "浏览物品",
   "View All": "查看所有",
   "Back to Browse": "返回浏览页",
   "Feedback": "反馈",
@@ -1578,15 +1578,19 @@ window.WowDBDict = {
 
   "Added": "添加",
   "Updated": "更新",
-  "Updateds": "更新",
+  "Updates": "更新",
   "Related": "相关",
   "Items": "物品",
   "items": "物品",
   "Misc": "杂项",
   "Recently": "最近",
+  "Housing": "家宅",
   "Latest": "最新",
-  "Search items...": "搜索物品...",
+  "Browse": "浏览",
+  "Search items": "搜索物品",
+  "Model Viewer": "模型查看器",
+  "double-click to fullscreen": "双击以全屏查看",
 
-  "[DNT]": "[勿用]",
-  "[AUTOGEN]": "[自动生成]"
+  "DNT": "勿用",
+  "AUTOGEN": "自动生成"
 };
