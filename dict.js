@@ -1,5 +1,8 @@
 window.WowDBDict = {
   "Housing Hub": "家宅中心",
+  "Horde Housing District": "部落住宅区",
+  "Alliance Housing District": "联盟住宅区",
+  "Housing Plots": "房屋地块",
 
   // 当前版本：12.0.0.63728
   // 更新时间：2025/10/10
@@ -1403,20 +1406,24 @@ window.WowDBDict = {
   "Nature": "植被",
   "Structural": "构造",
 
-  "CreateAsGameObjectProxy": "创建为游戏对象代理",
+  "Game Object Proxy": "游戏对象代理",
   "Deprecated": "已弃用",
   "Exterior": "室外",
   "HiddenInCatalog": "在目录中隐藏",
   "Interior": "室内",
-  "PreventRemovalFromHouseChest": "禁止从家宅储物箱移除",
+  "Can't Remove from Chest": "不可自柜中移除",
 
   "Low": "低",
   "Medium": "中",
   "High": "高",
   "No Budget Cost": "无装饰容限",
 
+  "Dyeable": "染色",
+  "Dyeable Items Only": "仅可染色物品",
+
   "Achievement": "成就",
   "Crafting": "专业制造",
+  "Quest": "任务",
   "Filter by Profession": "按专业过滤",
   "Alchemy": "炼金",
   "Blacksmithing": "锻造",
@@ -1435,6 +1442,7 @@ window.WowDBDict = {
   "Bronzebeard Dwarf": "铜须部族",
   "Ironforge": "铁炉堡",
   "Dark Iron Dwarf": "黑铁矮人",
+  "Dracthyr": "龙希尔",
   "Draenei": "德莱尼",
   "Dwarven": "矮人",
   "Earthen": "土灵",
@@ -1472,8 +1480,10 @@ window.WowDBDict = {
   "Brewfest": "美酒节",
   "Feast of Winter Veil": "冬幕节",
   "Hallow's End": "万圣节",
+  
   "Stormwind": "暴风城",
-
+  "craft crafting crafted profession": "制造/专业",
+  
   "Huge": "巨大",
   "Large": "大",
   "Medium": "中",
@@ -1568,8 +1578,17 @@ window.WowDBDict = {
   "Item Information": "物品信息",
   "Quick Actions": "快速跳转",
   "View 3D Model": "查看3D模型",
-  "Browse Items": "浏览物品",
+  "Browse Decor": "浏览装饰",
+  "Neighborhoods": "住宅区",
+  "Founder's Point": "创始者之角",
+  "Razorwind Shores": "烈风海岸",
+  "Flight Masters": "飞行管理员",
+  "Portals": "传送门",
   "View All": "查看所有",
+  "World map": "世界地图",
+  "Minimap tiles": "小地图区块",
+  "Plots": "地块",
+  "Transports": "交通",
   "Back to Browse": "返回浏览页",
   "Feedback": "反馈",
   "Login": "登录",
@@ -1580,6 +1599,8 @@ window.WowDBDict = {
   "Thumbnail": "缩略图",
   "Name": "名字",
   "Source": "来源",
+  "Grid": "网格",
+  "Table": "列表",
   
   "Added": "添加",
   "Updated": "更新",
