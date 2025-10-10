@@ -1580,6 +1580,7 @@ window.WowDBDict = {
   "View 3D Model": "查看3D模型",
   "Browse Decor": "浏览装饰",
   "Neighborhoods": "住宅区",
+  "Neighborhood": "住宅区",
   "Founder's Point": "创始者之角",
   "Razorwind Shores": "烈风海岸",
   "Flight Masters": "飞行管理员",
