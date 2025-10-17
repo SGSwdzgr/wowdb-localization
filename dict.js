@@ -1573,7 +1573,7 @@ window.WowDBDict = {
   
   "Build Version": "构建版本",
   "Added In Build": "新增于构建版本",
-  "All Build": "全部构建版本",
+  "All Builds": "全部构建版本",
   
   "Category": "分类",
   "Categories": "分类",
@@ -1654,7 +1654,7 @@ window.WowDBDict = {
   "Housing": "家宅",
   "Latest": "最新",
   "Browse": "浏览",
-  "Search items": "搜索物品",
+  "Search Items": "搜索物品",
   "Model Viewer": "模型查看器",
   "double-click to fullscreen": "双击以全屏查看",
 
